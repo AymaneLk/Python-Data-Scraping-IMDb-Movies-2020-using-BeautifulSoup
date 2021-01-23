@@ -4,6 +4,7 @@
 Data Scraping using Python BeautifulSoup
 
 Data Scraping the most POPULAR movies/series in IMDb in 2020
+
 Data scraping from a website is one of the way to get valuable data about present trends especially because most of the data nowadays really comes from different websites such as _Facebook, TikTok, Snapchat_...
 
 Data scraping may be useful in many fields such as: **Data science, ML & AI**.
