@@ -15,13 +15,13 @@ In this project i tried to scrap what's on the** movies/series** trend and save 
 I used **Python** because it's **the easiest and an efficient language** for data science (There are many other languages you can use such as **R**)
 
 ## Install Important Packages
-### On Windows
+### On Windows:
 
 Open CMD and type the following:
 
 `pip install lxml pip install bs4`
 
-### On Linux
+### On Linux:
 Open the Terminal and type the following:
 
 `apt-get install lxml apt-get install bs4`
